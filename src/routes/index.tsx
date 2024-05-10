@@ -8,11 +8,11 @@ export default function Home() {
       <h1>Hello world!</h1>
       <Counter />
       <p>
-        Visit{" "}
-        <a href="https://start.solidjs.com" target="_blank">
-          start.solidjs.com
+        Clica{" "}
+        <a href="CV_english.pdf" target="_blank">
+          FITXER PDF
         </a>{" "}
-        to learn how to build SolidStart apps.
+        to per obrir el fitxer.
       </p>
       <p>Bueno què tal? tot bé? Jo em dic Martí</p>
     </main>
