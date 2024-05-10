@@ -2,7 +2,6 @@ export default function pag1() {
   return (
     <main>
       <Title>Pàgina 1</Title>
-      <HttpStatusCode code={404} />
       <h1>Això és una pàgina qualsevol</h1>
       <p>Com pinta tot plegat?</p>
     </main>
