@@ -14,6 +14,7 @@ export default function Home() {
         </a>{" "}
         to learn how to build SolidStart apps.
       </p>
+      <p>Bueno què tal? tot bé? Jo em dic Martí</p>
     </main>
   );
 }
