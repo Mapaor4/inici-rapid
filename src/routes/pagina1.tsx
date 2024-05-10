@@ -1,4 +1,4 @@
-export default function pag1() {
+export default function pagina1() {
   return (
     <main>
       <Title>Pàgina 1</Title>
