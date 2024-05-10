@@ -33,7 +33,7 @@ export default function Root() {
           </ErrorBoundary>
         </Suspense>
         <Scripts />
-        <p>Holaaaa bon dia</p>
+        <p>Aquest text sempre formarà part de la pàgina principal</p>
       </Body>
     </Html>
   );
